@@ -1,3 +1,1 @@
 % Coleman Barnacascel
-
-ver
